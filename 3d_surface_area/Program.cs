@@ -7,7 +7,7 @@ class Program
         int row = int.Parse(dimensions[0]);
         int column = int.Parse(dimensions[1]);
 
-        int[,] grid = new int[row, column];
+        int[,] grid = new int[row, column]; 
 
         for (int i = 0; i < row; i++)
         {
