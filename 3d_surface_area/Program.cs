@@ -53,9 +53,6 @@ class Program
             }
         }
 
-
-
-
         return totalSurfaceArea;
     }
 }
